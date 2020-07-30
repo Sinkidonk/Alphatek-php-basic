@@ -20,17 +20,17 @@
             <p>AX200 Developer Sensor LM35</p>
             <p>( Please check your sensor for the correct connector color)</p>
             <p>Alphatek Part # 4185-200-01</p>
-            <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-                <input type="hidden" name="cmd" value="_s-xclick">
-                <input type="hidden" name="hosted_button_id" value="RYQZPFMLY39PW">
+            <form target="paypal" action="" method="post">
+                
+                
                 <p>White Developer sensor $95.00</p>
                 <input type="image" src="../images/btn-cart-lg.gif" name="submit" alt="PayPal - The safer, easier way to pay online!" width="120" height="26">
                 <img alt="" src="../images/pixel.gif" width="1" height="1">
             </form>
             
-            <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-                <input type="hidden" name="cmd" value="_s-xclick">
-                <input type="hidden" name="hosted_button_id" value="RM9A3XWTNHY6W">
+            <form target="paypal" action="" method="post">
+                
+                
                 <p>Black Developer sensor $95.00</p>
                 <input type="image" src="../images/btn-cart-lg.gif" name="submit" alt="PayPal - The safer, easier way to pay online!" width="120" height="26">
                 <img alt=""  src="../images/pixel.gif" width="1" height="1">

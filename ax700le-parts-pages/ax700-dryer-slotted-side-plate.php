@@ -19,9 +19,9 @@
             <p>AX700LE Dryer Side Plate Slotted $80.50</p>
             <p>Non-Gear Side</p>
 			<p>Alphatek Part # 4459-700-05</p>
-            <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-                <input type="hidden" name="cmd" value="_s-xclick">
-                <input type="hidden" name="hosted_button_id" value="N3W2LJV3LDTUE">
+            <form target="paypal" action="" method="post">
+                
+                
                 <input type="image" src="../images/btn-cart-lg.gif" name="submit" alt="PayPal - The safer, easier way to pay online!" width="120" height="26">
                 <img alt="" src="../images/pixel.gif" width="1" height="1">
             </form>

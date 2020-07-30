@@ -18,9 +18,9 @@
             <img class="parts-img" src="full-images/chem-rack-drive-gear.jpg" width="400" height="300" alt="Rack Drive Gear">
             <p>Chem. Rack Drive Gear $5.75</p>
             <p>Alphatek Part # 4153-600-53</p>
-            <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-                <input type="hidden" name="cmd" value="_s-xclick">
-                <input type="hidden" name="hosted_button_id" value="D6VMYL9DETDDG">
+            <form target="paypal" action="" method="post">
+                
+                
                 <input type="image" src="../images/btn-cart-lg.gif" name="submit" alt="PayPal - The safer, easier way to pay online!" width="120" height="26">
                 <img alt="" src="../images/pixel.gif" width="1" height="1">
             </form>

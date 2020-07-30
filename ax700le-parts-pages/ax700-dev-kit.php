@@ -92,9 +92,9 @@
 			</div>
 			<p>AX700LE Developer Rack Repair Kit $332.55</p>
 			<p>Alphatek Part # 9586-007</p>
-            <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-                <input type="hidden" name="cmd" value="_s-xclick">
-                <input type="hidden" name="hosted_button_id" value="GE2XL6SZDDKQQ">
+            <form target="paypal" action="" method="post">
+                
+                
                 <input type="image" src="../images/btn-cart-lg.gif" name="submit" alt="PayPal - The safer, easier way to pay online!" width="120" height="26">
                 <img alt="" src="../images/pixel.gif" width="1" height="1">
             </form>

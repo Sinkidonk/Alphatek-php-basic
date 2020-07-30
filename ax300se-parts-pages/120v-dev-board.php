@@ -19,9 +19,9 @@
             <p>Developer Temp. Control Board $210.00</p>
             <p>Used on AX300SE &amp; AX390SE, AX700 and AX350</p>
             <p>Alphatek Part # 5285-700-14</p>
-            <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-                <input type="hidden" name="cmd" value="_s-xclick">
-                <input type="hidden" name="hosted_button_id" value="BT68TAP4DVZFA">
+            <form target="paypal" action="" method="post">
+                
+                
                 <input type="image" src="../images/btn-cart-lg.gif" name="submit" alt="PayPal - The safer, easier way to pay online!" width="120" height="26">
                 <img alt="" src="../images/pixel.gif" width="1" height="1">
             </form>

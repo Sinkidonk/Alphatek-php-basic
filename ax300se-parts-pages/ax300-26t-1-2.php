@@ -18,9 +18,9 @@
             <img class="parts-img" src="full-images/26t-1-2.jpg" width="400" height="300" alt="26T 1/2 Main Drive Sprocket">
             <p>26T 1/2 Main Drive Sprocket $36.50</p>
             <p>Alphatek Part # 4133-300-08</p>
-            <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-                <input type="hidden" name="cmd" value="_s-xclick">
-                <input type="hidden" name="hosted_button_id" value="2R53X4QFL2LDY">
+            <form target="paypal" action="" method="post">
+                
+                
                 <input type="image" src="../images/btn-cart-lg.gif" name="submit" alt="PayPal - The safer, easier way to pay online!" width="120" height="26">
                 <img alt="" src="../images/pixel.gif" width="1" height="1">
             </form>

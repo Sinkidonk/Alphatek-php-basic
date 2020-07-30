@@ -25,9 +25,6 @@
 		<li>
 			<a href="../ax200-parts-pages">ECOMAX</a>
 		</li>
-		<li>
-			<a href="../temp-sql.php">Temp Sql</a>
-		</li>
     </ul>
     <hr>
     <ul>

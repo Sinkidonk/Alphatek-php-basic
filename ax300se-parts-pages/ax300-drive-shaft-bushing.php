@@ -18,9 +18,9 @@
             <img class="parts-img" src="full-images/main-drive-shaft-bushing.jpg" width="400" height="300" alt="AX300SE Main Drive Shaft Bushing">
             <p>Main Drive Shaft Bushing $9.50</p>
             <p>Alphatek Part # 4111-600-02</p>
-            <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-                <input type="hidden" name="cmd" value="_s-xclick">
-                <input type="hidden" name="hosted_button_id" value="GCMKV4HDZ7F5N">
+            <form target="paypal" action="" method="post">
+                
+                
                 <input type="image" src="../images/btn-cart-lg.gif" name="submit" alt="PayPal - The safer, easier way to pay online!" width="120" height="26">
                 <img alt="" src="../images/pixel.gif" width="1" height="1">
             </form>

@@ -20,9 +20,9 @@
             <p>AX200 Blower $460.00</p>
             <p>Alphatek Part # 4183-200-02</p>
             <p>Optimax/Summit QCP/Kodak MXP 104 Part # 2008-6-0007</p>
-			<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-				<input type="hidden" name="cmd" value="_s-xclick">
-				<input type="hidden" name="hosted_button_id" value="4G435286KLLM6">
+			<form target="paypal" action="" method="post">
+				
+				
 				<input type="image" src="../images/btn-cart-lg.gif" name="submit" alt="PayPal - The safer, easier way to pay online!" width="120" height="26">
 				<img alt="" src="../images/pixel.gif" width="1" height="1">
             </form>
