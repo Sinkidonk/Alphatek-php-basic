@@ -90,15 +90,10 @@
 				</tr>
 			</table>
 			</div>
-			<p>AX300SE Dryer Rack Repair Kit $263.40</p>
+			<p>AX300SE Dryer Rack Repair Kit </p>
 			<p>Used On the AX300SE &amp; AX390SE</p>
 			<p>Alphatek Part # 9586-032</p>
-            <form target="paypal" action="" method="post">
-                
-                
-                <input type="image" src="../images/btn-cart-lg.gif" name="submit" alt="PayPal - The safer, easier way to pay online!" width="120" height="26">
-                <img alt="" src="../images/pixel.gif" width="1" height="1">
-            </form>
+            
         </div>
 
     </main>

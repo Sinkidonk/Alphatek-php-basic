@@ -18,15 +18,10 @@
             <img class="parts-img" src="full-images/ax200-relpen.jpg" width="400" height="300" alt="AX200 Replenisher Pump">
             <img class="parts-img" src="full-images/ax200-replen-1.jpg" width="400" height="300" alt="AX200 Replenisher Pump">
             <p>220/240 Volt International</p>
-            <p>AX200 Replenisher Pump $790.00</p>
+            <p>AX200 Replenisher Pump </p>
             <p>Alphatek Part # 4183-200-10</p>
-            <p>Optimax/QCP Retrofitable $790.00</p>
-            <form target="paypal" action="" method="post">
-                
-                
-                <input type="image" src="../images/btn-cart-lg.gif" name="I4" alt="PayPal - The safer, easier way to pay online!" width="120" height="26">
-                <img alt="" src="../images/pixel.gif" width="1" height="1">    
-            </form>
+            <p>Optimax/QCP Retrofitable </p>
+            
         </div>
         
     </main>

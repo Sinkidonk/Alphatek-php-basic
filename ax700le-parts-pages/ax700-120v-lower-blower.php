@@ -24,14 +24,9 @@
     <main>
         <div class="center-img">
             <img id="700-lowerf" src="full-images/700-lowerf.jpg" width="421" height="275" alt="AX700E Lower Blower Asm">
-            <p>AX700E Lower Blower Asm. $675.00</p>
+            <p>AX700E Lower Blower Asm. </p>
             <p>Alphatek Part # 5536-700-07</p>
-            <form target="paypal" action="" method="post">
-                
-                
-                <input type="image" src="../images/btn-cart-lg.gif" name="submit" alt="PayPal - The safer, easier way to pay online!" width="120" height="26">
-                <img alt="" src="../images/pixel.gif" width="1" height="1">
-            </form>
+            
         </div>
         
     </main>

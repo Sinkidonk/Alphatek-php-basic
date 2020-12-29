@@ -17,14 +17,9 @@
         <div class="center-img">
             <img class="parts-img" src="full-images/squeegee-gear.jpg" width="400" height="300" alt="Squeegee Gear">
 			<img class="parts-img" src="full-images/squeegee-gear-1.jpg" width="400" height="300" alt="Squeegee Gear">
-            <p>Squeegee Gear $9.75</p>
+            <p>Squeegee Gear </p>
             <p>Alphatek Part # 4153-600-14</p>
-            <form target="paypal" action="" method="post">
-                
-                
-                <input type="image" src="../images/btn-cart-lg.gif" name="submit" alt="PayPal - The safer, easier way to pay online!" width="120" height="26">
-                <img alt="" src="../images/pixel.gif" width="1" height="1">
-            </form>
+            
         </div>
         
     </main>

@@ -24,14 +24,9 @@
     <main>
         <div class="center-img">
             <img id="700-dryer-f" src="full-images/700-dryer-f.jpg" width="554" height="300" alt="AX700LE Dryer Rack Asm">
-            <p>AX700LE Dryer Rack Asm. $1,275.00</p>
+            <p>AX700LE Dryer Rack Asm. </p>
             <p>Alphatek Part # 5543-700-04</p>
-            <form target="paypal" action="" method="post">
-                
-                
-                <input type="image" src="../images/btn-cart-lg.gif" name="submit" alt="PayPal - The safer, easier way to pay online!" width="120" height="26">
-                <img alt="" src="../images/pixel.gif" width="1" height="1">
-            </form>
+            
         </div>
         
     </main>

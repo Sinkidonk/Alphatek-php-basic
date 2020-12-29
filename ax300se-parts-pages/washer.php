@@ -16,14 +16,9 @@
     <main>
         <div class="center-img">
             <img class="parts-img" src="full-images/grom-wasker.jpg" width="400" height="300" alt="Grommet Mt. Washer">
-            <p>Grommet Mt. Washer $1.25</p>
+            <p>Grommet Mt. Washer </p>
             <p>Alphatek Part # 4158-600-04</p>
-            <form target="paypal" action="" method="post">
-                
-                
-                <input type="image" src="../images/btn-cart-lg.gif" name="submit" alt="PayPal - The safer, easier way to pay online!" width="120" height="26">
-                <img alt="" src="../images/pixel.gif" width="1" height="1">
-            </form>
+            
         </div>
         
     </main>

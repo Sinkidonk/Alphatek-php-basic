@@ -17,14 +17,9 @@
         <div class="center-img">
             <img class="parts-img" src="full-images/large-roller-bearing.jpg" width="400" height="300" alt="Large Roller Bearing">
 			<img class="parts-img" src="full-images/large-roller-bearing-1.jpg" width="400" height="300" alt="Large Roller Bearing">
-            <p>Large Roller Bearing $4.10</p>
+            <p>Large Roller Bearing </p>
             <p>Alphatek Part # 4152-600-03</p>
-            <form target="paypal" action="" method="post">
-                
-                
-                <input type="image" src="../images/btn-cart-lg.gif" name="submit" alt="PayPal - The safer, easier way to pay online!" width="120" height="26">
-                <img alt="" src="../images/pixel.gif" width="1" height="1">
-            </form>
+            
         </div>
         
     </main>

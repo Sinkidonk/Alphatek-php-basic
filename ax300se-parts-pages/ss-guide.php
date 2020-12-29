@@ -17,14 +17,9 @@
         <div class="center-img">
             <img class="parts-img" src="full-images/ss-guide.jpg" width="400" height="300" alt="SS Crossover Guide">
 			<img class="parts-img" src="full-images/ss-guide-1.jpg" width="400" height="300" alt="SS Crossover Guide">
-            <p>SS Crossover Guide $54.00</p>
+            <p>SS Crossover Guide </p>
 			<p>Alphatek Part # 4242-600-03</p>
-            <form target="paypal" action="" method="post">
-                
-                
-                <input type="image" src="../images/btn-cart-lg.gif" name="submit" alt="PayPal - The safer, easier way to pay online!" width="120" height="26">
-                <img alt="" src="../images/pixel.gif" width="1" height="1">
-            </form>
+            
         </div>
     </main>
 <?php include("../sub-link/footer.php"); ?>

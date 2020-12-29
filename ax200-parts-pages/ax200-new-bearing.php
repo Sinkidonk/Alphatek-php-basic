@@ -17,14 +17,9 @@
         <div class="center-img">
             <img class="parts-img" src="full-images/ax200-new-roller-bearing.jpg" width="400" height="300" alt="AX200 Roller bearing">
             <img class="parts-img" src="full-images/ax200-new-roller-bearing-1.jpg" width="400" height="300" alt="AX200 Roller bearing">
-            <p>AX200 Roller bearing $4.50</p>
+            <p>AX200 Roller bearing</p>
             <p>Alphatek Part # 4152-200-04</p>
-            <form target="paypal" action="" method="post">
-                
-                
-                <input type="image" src="../images/btn-cart-lg.gif" name="submit" alt="PayPal - The safer, easier way to pay online!" width="120" height="26">
-                <img alt="" src="../images/pixel.gif" width="1" height="1">
-            </form>
+            
         </div>
         
     </main>

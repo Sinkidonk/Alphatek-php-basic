@@ -16,14 +16,9 @@
     <main>
         <div class="center-img">
             <img class="parts-img" src="full-images/rubber-grom.jpg" width="400" height="300" alt="Rubber Grommet">
-            <p>Rubber Grommet $1.75</p>
+            <p>Rubber Grommet </p>
             <p>Alphatek Part # 4167-600-08</p>
-            <form target="paypal" action="" method="post">
-                
-                
-                <input type="image" src="../images/btn-cart-lg.gif" name="submit" alt="PayPal - The safer, easier way to pay online!" width="120" height="26">
-                <img alt="" src="../images/pixel.gif" width="1" height="1">
-            </form>
+            
         </div>
         
     </main>

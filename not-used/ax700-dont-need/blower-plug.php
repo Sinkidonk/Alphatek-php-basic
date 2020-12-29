@@ -16,15 +16,10 @@
     <main>
         <div class="center-img">
             <img class="parts-img" src="full-images/700-plug.jpg" width="400" height="300" alt="Blower Plug">
-            <p>Blower Plug $83.00</p>
+            <p>Blower Plug </p>
             <p>Used on AX700 &amp; AX700LE</p>
 			<p>Alphatek Part # 5285-700-09</p>
-            <form target="paypal" action="" method="post">
-                
-                
-                <input type="image" src="../images/btn-cart-lg.gif" name="submit" alt="PayPal - The safer, easier way to pay online!" width="120" height="26">
-                <img alt="" src="../images/pixel.gif" width="1" height="1">
-            </form>
+            
         </div>
         
     </main>

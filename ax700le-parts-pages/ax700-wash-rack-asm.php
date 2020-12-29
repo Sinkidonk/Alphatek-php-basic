@@ -24,14 +24,9 @@
     <main>
         <div class="center-img">
             <img id="ax700-fix-wash-f2" src="full-images/ax700-fix-wash-f.jpg" width="639" height="200" alt="AX700LE Wash Rack Asm">
-            <p>AX700LE Wash Rack Asm. $1,850.00</p>
+            <p>AX700LE Wash Rack Asm. </p>
             <p>Alphatek Part # 5543-700-03</p>
-            <form target="paypal" action="" method="post">
-                
-                
-                <input type="image" src="../images/btn-cart-lg.gif" name="submit" alt="PayPal - The safer, easier way to pay online!" width="120" height="26">
-                <img alt="" src="../images/pixel.gif" width="1" height="1">
-            </form>
+            
         </div>
         
     </main>

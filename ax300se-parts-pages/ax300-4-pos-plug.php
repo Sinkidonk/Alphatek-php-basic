@@ -16,14 +16,9 @@
     <main>
         <div class="center-img">
             <img class="parts-img" src="full-images/4-pos-plug.jpg" width="400" height="300" alt="AX300 4 Position Dryer Plug">
-            <p>4 Position Dryer Plug $50.00</p>
+            <p>4 Position Dryer Plug </p>
             <p>Alphatek Part # 5285-300-03</p>
-            <form target="paypal" action="" method="post">
-                
-                
-                <input type="image" src="../images/btn-cart-lg.gif" name="submit" alt="PayPal - The safer, easier way to pay online!" width="120" height="26">
-                <img alt="" src="../images/pixel.gif" width="1" height="1">
-            </form>
+            
         </div>
         
     </main>

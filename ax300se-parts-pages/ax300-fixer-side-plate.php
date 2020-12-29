@@ -16,14 +16,9 @@
     <main>
         <div class="center-img">
             <img class="parts-img" src="full-images/ax300-fixer-side-plate.jpg" width="400" height="300" alt="Fixer Side Plate">
-            <p>AX300SE &amp; AX390SE Fixer Side Plate $85.00</p>
+            <p>AX300SE &amp; AX390SE Fixer Side Plate </p>
 			<p>Alphatek Part # 4459-300-01</p>
-            <form target="paypal" action="" method="post">
-                
-                
-                <input type="image" src="../images/btn-cart-lg.gif" name="submit" alt="PayPal - The safer, easier way to pay online!" width="120" height="26">
-                <img alt="" src="../images/pixel.gif" width="1" height="1">
-            </form>
+            
         </div>
     </main>
 <?php include("../sub-link/footer.php"); ?>

@@ -24,14 +24,9 @@
     <main>
         <div class="center-img">
             <img id="dev-rack" src="full-images/300-devf.jpg" width="636" height="175" alt="Developer Rack Asm">
-            <p>AX300SE Developer Rack Asm. $1350.00</p>
+            <p>AX300SE Developer Rack Asm. </p>
 			<p>Alphatek Part # 5543-300-01</p>
-            <form target="paypal" action="" method="post">
-                
-                
-                <input type="image" src="../images/btn-cart-lg.gif" name="submit" alt="PayPal - The safer, easier way to pay online!" width="120" height="26">
-                <img alt="" src="../images/pixel.gif" width="1" height="1">
-            </form>
+            
         </div>
         
     </main>

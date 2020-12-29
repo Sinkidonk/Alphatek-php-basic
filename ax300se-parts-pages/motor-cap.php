@@ -16,14 +16,9 @@
     <main>
         <div class="center-img">
             <img class="parts-img" src="../parts-images/full-images/main-drive-shaft-asm.jpg" width="400" height="300" alt="Replacement Motor Capacitor">
-            <p>Replacement Motor Capacitor $90.00</p>
+            <p>Replacement Motor Capacitor </p>
             <p>Alphatek Part # 4183-700-17</p>
-            <form target="paypal" action="" method="post">
-                
-                
-                <input type="image" src="../images/btn-cart-lg.gif" name="submit" alt="PayPal - The safer, easier way to pay online!" width="120" height="26">
-                <img alt="" src="../images/pixel.gif" width="1" height="1">
-            </form>
+            
         </div>
         
     </main>

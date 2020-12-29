@@ -95,14 +95,9 @@
 				</tr>
 			</table>
 			</div>
-			<p>AX300SE Developer Rack Repair Kit $195.10</p>
+			<p>AX300SE Developer Rack Repair Kit </p>
 			<p>Alphatek Part # 9586-028</p>
-            <form target="paypal" action="" method="post">
-                
-                
-                <input type="image" src="../images/btn-cart-lg.gif" name="submit" alt="PayPal - The safer, easier way to pay online!" width="120" height="26">
-                <img alt="" src="../images/pixel.gif" width="1" height="1">
-            </form>
+            
         </div>
         
     </main>

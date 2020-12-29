@@ -17,15 +17,10 @@
         <div class="center-img">
             <p>3/8 X 9/16 Tubing</p>
             <p>Used on all hose's on machine</p>
-            <p>AX200 Tubing $2.75 Per Foot</p>
+            <p>AX200 Tubing </p>
             <p>Alphatek Part # 135-3412-09</p>
             <p>Also used on Optimax/Ecomax/Summit QCP/Kodak MXP 104</p>
-            <form target="paypal" action="" method="post">
-                
-                
-                <input type="image" src="../images/btn-cart-lg.gif" name="I4" alt="PayPal - The safer, easier way to pay online!" width="120" height="26">
-                <img alt="" src="../images/pixel.gif" width="1" height="1">    
-            </form>
+            
         </div>
         
     </main>

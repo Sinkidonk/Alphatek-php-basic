@@ -16,15 +16,10 @@
     <main>
         <div class="center-img">
             <img class="parts-img" src="../images/blank.jpg" width="400" height="300" alt="SS Hose Clamp">
-            <p>1/2 ID x 3/4 Tubing $3.00 Per  Foot</p>
+            <p>1/2 ID x 3/4 Tubing </p>
             <p>(Drain Tubing)</p>
 			<p>Alphatek Part # 135-3416-12</p>
-            <form target="paypal" action="" method="post">
-                
-                
-                <input type="image" src="../images/btn-cart-lg.gif" name="submit" alt="PayPal - The safer, easier way to pay online!" width="120" height="26">
-                <img alt="" src="../images/pixel.gif" width="1" height="1">
-            </form>
+            
         </div>
         
     </main>

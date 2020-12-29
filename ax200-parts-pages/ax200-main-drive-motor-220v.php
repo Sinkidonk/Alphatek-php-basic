@@ -18,15 +18,10 @@
             <img class="parts-img" src="full-images/ax200-motor.jpg" width="400" height="300" alt="AX200 Main Drive Motor">
             <img class="parts-img" src="full-images/ax200-motor-1.jpg" width="400" height="300" alt="AX200 Main Drive Motor">
             <p>220/240 Volt International</p>
-            <p>AX200 Main drive motor $500.00</p>
+            <p>AX200 Main drive motor</p>
             <p>Alphatek Part # 4183-200-05</p>
             <p>(Also used on the Optimax/QCP)</p>
-            <form target="paypal" action="" method="post">
-                
-                
-                <input type="image" src="../images/btn-cart-lg.gif" name="submit" alt="PayPal - The safer, easier way to pay online!" width="120" height="26">
-                <img alt="" src="../images/pixel.gif" width="1" height="1">
-            </form>
+            
         </div>
         
     </main>

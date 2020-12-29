@@ -24,14 +24,9 @@
     <main>
         <div class="center-img">
             <img id="upper-blower-asm" src="full-images/390-upperf.jpg" width="397" height="324" alt="AX390SE Upper Blower Asm">
-            <p>AX390SE Upper Blower Asm. $570.00</p>
+            <p>AX390SE Upper Blower Asm. </p>
             <p>Alphatek Part # 5536-300-05</p>
-            <form target="paypal" action="" method="post">
-                
-                
-                <input type="image" src="../images/btn-cart-lg.gif" name="submit" alt="PayPal - The safer, easier way to pay online!" width="120" height="26">
-                <img alt="" src="../images/pixel.gif" width="1" height="1">
-            </form>
+            
         </div>
         
     </main>

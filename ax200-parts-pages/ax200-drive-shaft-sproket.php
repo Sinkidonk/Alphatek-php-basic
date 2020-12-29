@@ -16,15 +16,10 @@
     <main>
         <div class="center-img">
             <img class="parts-img" src="full-images/ax200-sproket.jpg" width="400" height="300" alt="AX200 Main Drive Shaft Sprocket">
-            <p>AX200 Main Drive Shaft Sprocket $35.10</p>
+            <p>AX200 Main Drive Shaft Sprocket</p>
             <p>Alphatek Part# 4133-200-01</p>
             <p>Optimax/Summit QCP Kodak MXP 104 Part #1170-0-1505</p>
-            <form target="paypal" action="" method="post">
-                
-                
-                <input type="image" src="../images/btn-cart-lg.gif" name="submit" alt="PayPal - The safer, easier way to pay online!" width="120" height="26">
-                <img alt="" src="../images/pixel.gif" width="1" height="1">
-            </form>
+            
         </div>
         
     </main>

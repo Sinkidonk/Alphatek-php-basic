@@ -23,7 +23,6 @@
 		<h1>Payment</h1>
 		<p>
 			Our payments are processed with Paypal checkout. Just add any item or items to your cart and securely use Paypal to checkout. If you don’t have a Paypal account you can create one.  If you do not wish to create a Paypal account you can use the Paypal guest checkout. Either way you have the peace of mind that your information is protected with the industry leading security of Paypal.<br><br>
-			<img src="images/btn_xpress-checkoutsm.gif" width="145" height="42" alt="">
 		</p>
 
     </main>
